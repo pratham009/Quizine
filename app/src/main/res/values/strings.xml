@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quizine</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="welcome">Welcome!</string>
+    <string name="eg_roman_reigns">eg: Roman Reigns</string>
+    <string name="start">Start</string>
+    <string name="quiz_app">Quiz App!</string>
+</resources>
